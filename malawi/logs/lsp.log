@@ -1,0 +1,33 @@
+23-03-2020 18:19:27.272 [Gauge] [INFO] Watching directory: /Users/bkrishnachaitanya/WebstormProjects/malawitestsuit/specs
+23-03-2020 18:19:27.272 [Gauge] [DEBUG] Found 1 files
+23-03-2020 18:19:27.734 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-03-2020 18:19:27.736 [Gauge] [INFO] Initializing specs cache with 1 specs
+23-03-2020 18:19:27.736 [Gauge] [DEBUG] Adding specs from /Users/bkrishnachaitanya/WebstormProjects/malawitestsuit/specs/registration.spec
+23-03-2020 18:19:27.736 [Gauge] [INFO] Initializing steps cache with 1 steps
+23-03-2020 18:19:27.737 [Gauge] [INFO] Starting language runner
+23-03-2020 18:19:27.737 [Gauge] [DEBUG] Unable to connect to runner : Compatibility error. Incompatible version. Minimum support version 1.0.7 is higher than current version 1.0.6
+Some of the gauge lsp feature will not work as expected.
+23-03-2020 18:19:27.737 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+23-03-2020 18:19:28.275 [Gauge] [DEBUG] Unable to send analytics data, timed out
+23-03-2020 18:21:48.459 [Gauge] [INFO] Watching directory: /Users/bkrishnachaitanya/WebstormProjects/malawitestsuit/specs
+23-03-2020 18:21:48.460 [Gauge] [DEBUG] Found 1 files
+23-03-2020 18:21:48.719 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-03-2020 18:21:48.721 [Gauge] [INFO] Initializing specs cache with 1 specs
+23-03-2020 18:21:48.721 [Gauge] [DEBUG] Adding specs from /Users/bkrishnachaitanya/WebstormProjects/malawitestsuit/specs/registration.spec
+23-03-2020 18:21:48.721 [Gauge] [INFO] Initializing steps cache with 1 steps
+23-03-2020 18:21:48.724 [Gauge] [INFO] Starting language runner
+23-03-2020 18:21:48.725 [Gauge] [DEBUG] Unable to connect to runner : Compatibility error. Incompatible version. Minimum support version 1.0.7 is higher than current version 1.0.6
+Some of the gauge lsp feature will not work as expected.
+23-03-2020 18:21:48.725 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+23-03-2020 18:21:51.448 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+23-03-2020 18:31:56.985 [Gauge] [INFO] Watching directory: /Users/bkrishnachaitanya/WebstormProjects/malawitestsuit/specs
+23-03-2020 18:31:56.998 [Gauge] [DEBUG] Found 1 files
+23-03-2020 18:31:57.171 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-03-2020 18:31:57.172 [Gauge] [INFO] Initializing specs cache with 1 specs
+23-03-2020 18:31:57.172 [Gauge] [DEBUG] Adding specs from /Users/bkrishnachaitanya/WebstormProjects/malawitestsuit/specs/registration.spec
+23-03-2020 18:31:57.172 [Gauge] [INFO] Initializing steps cache with 1 steps
+23-03-2020 18:31:57.172 [Gauge] [INFO] Starting language runner
+23-03-2020 18:31:57.173 [Gauge] [DEBUG] Unable to connect to runner : Compatibility error. Incompatible version. Minimum support version 1.0.7 is higher than current version 1.0.6
+Some of the gauge lsp feature will not work as expected.
+23-03-2020 18:31:57.173 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+23-03-2020 18:31:57.178 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
